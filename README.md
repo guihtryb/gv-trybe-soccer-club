@@ -7,3 +7,4 @@
 - Build REST APIs with TypeScript and Node.js;
 - Use Docker 🐳 to integrate apps to consume database;
 - Modelate data with MySQL and Sequelize package;
+- Test Driven Development;
